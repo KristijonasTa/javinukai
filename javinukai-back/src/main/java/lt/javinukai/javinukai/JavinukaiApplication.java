@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JavinukaiApplication {
 
 	public static void main(String[] args) {
+		\\test
 		SpringApplication.run(JavinukaiApplication.class, args);
 	}
 
